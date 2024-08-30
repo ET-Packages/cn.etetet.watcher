@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.watcher",
   "displayName": "ET.Watcher",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "unity": "2022.3",
   "description": "用于监视进程，拉起进程，防止进程挂掉",
   "author": {
@@ -14,7 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.core": "0.0.20"
+    "cn.etetet.core": "0.1.1"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
